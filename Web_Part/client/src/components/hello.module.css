@@ -1,0 +1,22 @@
+.hello{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 20px;
+    width: 700px;
+    height: 500px;
+    background: rgb(250, 250, 250);
+}
+
+
+#Buttons{
+    margin: 30px auto 0 auto;
+    width: 150px;
+}
+.inputs{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 500px;
+}

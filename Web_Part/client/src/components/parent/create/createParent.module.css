@@ -1,0 +1,20 @@
+.wrap{
+    width: 800px;
+    margin: 75px auto 0 auto;
+}
+.tableEmp{
+    width: 680px;
+    margin: 50px auto 0 auto;
+    margin-bottom: 100px;
+}
+#but{
+    border-radius: 120px;
+    width: 200px;
+    margin-left: 420px;
+    margin-top: 50px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

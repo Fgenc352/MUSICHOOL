@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "msnodesqlv8": "^2.4.4",
+    "tedious": "^14.0.0"
+  }
+}
